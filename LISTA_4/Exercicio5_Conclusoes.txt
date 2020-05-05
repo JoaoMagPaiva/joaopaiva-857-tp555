@@ -1,0 +1,2 @@
+O Classificador Linear treinado não conseguiu diferenciar as categorias 'comp.windows.x' e 'comp.os.ms-windows.misc'. Por se tratar basicamente do mesmo assunto, esse algoritmo não conseguiu perceber as particularidades da classe 'comp.os.ms-windows.misc' e definiu os textos dessa classe somente como 'comp.windows.x'.
+Uma possível explicação é que a categoria 'comp.os.ms-windows.misc' é uma sub-divisão da categoria 'comp.windows.x'.
