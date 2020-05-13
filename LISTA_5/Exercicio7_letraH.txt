@@ -1,0 +1,3 @@
+O classificador Linear, para esse exemplo, não apresentou uma performance aceitável, pois ele divide conjuntos de dados utilizando linhas retas. Para esse conjunto de dados, uma função hipótese multinomial é mais indicada para treinamento de um classificador.
+
+Analisando a matriz de confusão do classificador linear, pode-se perceber que ele indicou uma taxa de falso positivo superior a 0.5, o que leva a conclusão que ele não detecta nem 50% dos dados de classe 0 corretamente. Ja o classificador multinomial apresentou uma matriz de confusão perfeita.
