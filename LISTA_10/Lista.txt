@@ -1,0 +1,38 @@
+Exercício 1
+
+A principal vantagem que enxergo para a utilização de grafos computacionais é a organização do código. Outra vantagem que pode ser observada é a administração de recursos computacionais com a criação e fechamento de grafos que não estão sendo mais utilizados, além da execução paralela e execução em diferentes dispositivos.
+
+Como desvantagens, vejo a complexidade de entendimento para engenheiros que não conhecem o conceito de grafo e a complexidade de processamento.
+
+Exercício 2
+
+Sim, conforme arquivo Exercicio_2.ipynb
+
+Exercicio 3
+
+Sim, conforme arquivo Exercicio_3.ipynb
+
+Exercício 4
+
+Acredito não ser possível, para executar dois grafos na mesma sessão, deve-se unir os dois em um só.
+
+Exercício 5
+
+Uma variável é inicializada quando a função initializer é chamada e destruída quando uma sessão é terminada.
+
+Exercício 6
+
+Uma variável é uma instância que possui um valor e antes de ser executada, ela deve ser inicializada. Um placeholder é uma instância que possui as informações de tipo e forma (shape) de um tensor, mas não possui valor (deve se usar a função feed_dict para atribuir valor ao placeholder).
+
+Exercício 7
+
+Gera um erro.
+
+Exercício 8
+
+Utilização da função de Assign 
+
+assign(
+    value, use_locking=False, name=None, read_value=True
+)
+
