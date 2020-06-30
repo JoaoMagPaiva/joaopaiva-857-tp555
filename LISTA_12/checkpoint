@@ -1,0 +1,3 @@
+model_checkpoint_path: "my_model_final_ex8.ckpt"
+all_model_checkpoint_paths: "my_model_finalv1.ckpt"
+all_model_checkpoint_paths: "my_model_final_ex8.ckpt"
